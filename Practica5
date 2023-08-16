@@ -1,4 +1,4 @@
-: '''
+'''
 Programa para calcular los cuadrados de los primeros naturales
 '''
 # Observa que range no incluye el último valor.
